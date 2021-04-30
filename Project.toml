@@ -1,0 +1,12 @@
+name = "LaserHeatControl"
+uuid = "2b7ff546-f56e-4681-8226-2dc16c35a082"
+authors = ["urlicht <jungsu93@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+DSP = "717857b8-e6f2-59f4-9121-6e50c889abd2"
+NIDAQ = "66b72792-1abf-55ab-8064-6e9051317175"
+Optim = "429524aa-4258-5aef-a3af-852621145aeb"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
